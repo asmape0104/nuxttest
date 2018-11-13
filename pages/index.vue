@@ -151,6 +151,14 @@ export default {
       this.data7.push(this.data7_input);
       this.data7_input = '';
     }
+  },
+  // ページ読み込み時に実行される。
+  created() {
+
+  },
+  // ページが閉じられたときに実行される。
+  destoryed() {
+
   }
 }
 </script>
