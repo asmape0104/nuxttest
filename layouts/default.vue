@@ -1,5 +1,9 @@
 <template>
   <div>
+    <!--
+      nuxt要素
+      ここにそれぞれのページが表示される。
+    -->
     <nuxt/>
   </div>
 </template>
