@@ -148,8 +148,8 @@ export default {
     },
     button2() {
       // script内から変数や関数を利用する場合はthisをつける。
-      this.data7.push(this.data7_input);
-      this.data7_input = '';
+      this.data8.push(this.data8_input);
+      this.data8_input = '';
     }
   },
   // ページ読み込み時に実行される。
